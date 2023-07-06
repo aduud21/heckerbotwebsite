@@ -9,6 +9,6 @@
     "author": "adudu21",
     "license": "YSNBA (https://github.com/aduud21/heckerbot/blob/main/LICENSE)",
     "devDependencies": {
-        "prettier": "^2.8.8"
+        "prettier": "^3.0.0"
     }
 }
