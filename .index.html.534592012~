@@ -35,35 +35,39 @@
                 MutilpleBot
             </h1>
             <p style="color: var(--secondary-text-color)">A discord bot</p>
-            <div role="group" class="btn-group">
-                <a
-                    title="Invite MutilpleBot to your server"
-                    href="https://discord.com/api/oauth2/authorize?client_id=947733660432490506&permissions=8&scope=applications.commands%20bot"
-                    class="btn btn-primary shadow-none"
-                    type="button"
-                    style="
-                        margin: 5px;
-                        background-color: var(--main-color);
-                        border-color: var(--main-color);
-                        border-radius: 10px;
-                    "
-                    >Invite me</a
-                >
+            <div class="tada animated">
+                <div role="group" class="btn-group">
+                    <a
+                        title="Invite MutilpleBot to your server"
+                        href="https://discord.com/api/oauth2/authorize?client_id=947733660432490506&permissions=8&scope=applications.commands%20bot"
+                        class="btn btn-primary shadow-none"
+                        type="button"
+                        style="
+                            margin: 5px;
+                            background-color: var(--main-color);
+                            border-color: var(--main-color);
+                            border-radius: 10px;
+                        "
+                        >Invite me</a
+                    >
+                </div>
             </div>
-            <div role="group" class="btn-group">
-                <a
-                    title="Support server"
-                    href="https://discord.gg/YSEB7PnHVV"
-                    class="btn btn-primary shadow-none"
-                    type="button"
-                    style="
-                        margin: 5px;
-                        background-color: var(--main-color);
-                        border-color: var(--main-color);
-                        border-radius: 10px;
-                    "
-                    >Support server</a
-                >
+            <div class="tada animated">
+                <div role="group" class="btn-group">
+                    <a
+                        title="Support server"
+                        href="https://discord.gg/YSEB7PnHVV"
+                        class="btn btn-primary shadow-none"
+                        type="button"
+                        style="
+                            margin: 5px;
+                            background-color: var(--main-color);
+                            border-color: var(--main-color);
+                            border-radius: 10px;
+                        "
+                        >Support server</a
+                    >
+                </div>
             </div>
         </header>
 
@@ -124,7 +128,7 @@
                     </p>
                     <a
                         title="Terms of service for the bot"
-                        href="tos.html"
+                        href="https://docs.google.com/document/d/1f3yKJK7fkyihu_vIx5z62T3-40oR5Mo9zjaTUYWcFG0/view"
                         class="btn btn-primary shadow-none"
                         type="button"
                         style="
@@ -137,7 +141,7 @@
                     >
                     <a
                         title="Privacy policy for the bot"
-                        href="privacy.html"
+                        href="https://docs.google.com/document/d/11ZH5vHB__avP1COLx9rSIxytjnIDdHvLYSCOaUUJnwY/view"
                         class="btn btn-primary shadow-none"
                         type="button"
                         style="
@@ -205,8 +209,13 @@
                 <div class="container">
                     <p class="text-muted small mb-0">
                         Copyright (C) 2022-2023 adudu21
-                        <a href="LICENSE.txt">YSNBA</a>
-                        <a href="LICENSE.txt" target="_blank" rel="noopener noreferrer"
+                        <a href="https://github.com/aduud21/heckerbotwebsite/blob/main/LICENSE.txt"
+                            >YSNBA</a
+                        >
+                        <a
+                            href="https://github.com/aduud21/heckerbotwebsite/blob/main/LICENSE.txt"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             >(Version 1.5)</a
                         >
                     </p>
