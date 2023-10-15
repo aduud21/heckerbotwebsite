@@ -2,7 +2,7 @@
   Cache-Control: public, max-age=14400
 /
   Cache-Control: public, max-age=0
-Content-Security-Policy: default-src 'none'
+Content-Security-Policy: <style-src 'self' https://multiplebot.pages.dev/
 Content-Type: text/html; charset=utf-8
 Cross-Origin-Opener-Policy: same-origin
 Cross-Origin-Resource-Policy: same-origin
